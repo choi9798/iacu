@@ -1,0 +1,1513 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "name": "R_U_EX-HN",
+        "neighbor": [
+          2776,
+          1265,
+          188
+        ],
+        "vert_idx": 5104,
+        "x": -32.22919,
+        "y": 44.88313,
+        "z": -24.36663
+      },
+      "id": "R_EX-HN19",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN19",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_U_EX-HN",
+        "neighbor": [
+          2782,
+          1381,
+          1267
+        ],
+        "vert_idx": 2046,
+        "x": 34.12554,
+        "y": 44.55333,
+        "z": -25.04438
+      },
+      "id": "L_EX-HN19",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN19",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_D_EX-HN",
+        "neighbor": [
+          2399,
+          1251,
+          261
+        ],
+        "vert_idx": 5049,
+        "x": -16.46317,
+        "y": -54.11407,
+        "z": -27.31887
+      },
+      "id": "R_EX-HN17",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN17",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_D_EX-HN",
+        "neighbor": [
+          2402,
+          1252,
+          690
+        ],
+        "vert_idx": 8137,
+        "x": 16.60966,
+        "y": -54.03577,
+        "z": -27.76172
+      },
+      "id": "L_EX-HN17",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN17",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_GB14",
+        "neighbor": [
+          1942,
+          1059,
+          164
+        ],
+        "vert_idx": 437,
+        "x": -32.66465,
+        "y": 71.35064,
+        "z": -23.34245
+      },
+      "id": "R_GB14",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "GB14",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_TB23",
+        "neighbor": [
+          2571,
+          223,
+          222
+        ],
+        "vert_idx": 1641,
+        "x": -58.73102,
+        "y": 41.86705,
+        "z": -47.90752
+      },
+      "id": "R_TB23",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "TB23",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_BL2",
+        "neighbor": [
+          1237,
+          2714,
+          2713
+        ],
+        "vert_idx": 1924,
+        "x": -14.95173,
+        "y": 42.78211,
+        "z": -22.18476
+      },
+      "id": "R_BL2",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "BL1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_GB1",
+        "neighbor": [
+          1053,
+          2286,
+          2284
+        ],
+        "vert_idx": 1098,
+        "x": -56.1135,
+        "y": 28.59319,
+        "z": -47.17586
+      },
+      "id": "R_GB1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "GB1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_BL1",
+        "neighbor": [
+          2319,
+          181,
+          1069
+        ],
+        "vert_idx": 4332,
+        "x": -15.75153,
+        "y": 31.65099,
+        "z": -28.63609
+      },
+      "id": "R_BL1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "BL1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_ST1",
+        "neighbor": [
+          2240,
+          185,
+          2241
+        ],
+        "vert_idx": 7820,
+        "x": -32.32318,
+        "y": 19.9035,
+        "z": -31.03398
+      },
+      "id": "R_ST1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_EX-HN7",
+        "neighbor": [
+          1085,
+          2362,
+          183
+        ],
+        "vert_idx": 4395,
+        "x": -42.80027,
+        "y": 22.07002,
+        "z": -35.298
+      },
+      "id": "R_EX-HN7",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN7",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_ST2",
+        "neighbor": [
+          2050,
+          961,
+          285
+        ],
+        "vert_idx": 3914,
+        "x": -33.22974,
+        "y": 6.1111,
+        "z": -28.91469
+      },
+      "id": "R_ST2",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST2",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_EX-HN8",
+        "neighbor": [
+          1233,
+          2701,
+          2227
+        ],
+        "vert_idx": 1898,
+        "x": -17.23289,
+        "y": 3.6783,
+        "z": -21.15404
+      },
+      "id": "R_EX-HN8",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN8",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_SI18",
+        "neighbor": [
+          2038,
+          354,
+          957
+        ],
+        "vert_idx": 7430,
+        "x": -55.80537,
+        "y": -9.43769,
+        "z": -44.98148
+      },
+      "id": "R_SI18",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "SI18",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_ST3",
+        "neighbor": [
+          2376,
+          1636,
+          1091
+        ],
+        "vert_idx": 1283,
+        "x": -32.97693,
+        "y": -9.63882,
+        "z": -27.29848
+      },
+      "id": "R_ST3",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST3",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_LI20",
+        "neighbor": [
+          3049,
+          1570,
+          109
+        ],
+        "vert_idx": 2563,
+        "x": -18.42035,
+        "y": -6.10766,
+        "z": -23.20081
+      },
+      "id": "R_LI20",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "LI20",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_LI19",
+        "neighbor": [
+          86,
+          2948,
+          2603
+        ],
+        "vert_idx": 1702,
+        "vert_idx2": 3356,
+        "x": -9.56568,
+        "y": -18.85904,
+        "z": -16.05341
+      },
+      "id": "R_LI19",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "LI19",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "R_ST4",
+        "neighbor": [
+          59,
+          2953,
+          2615
+        ],
+        "vert_idx": 1735,
+        "x": -33.09646,
+        "y": -35.59183,
+        "z": -31.24804
+      },
+      "id": "R_ST4",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST4",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_GB14",
+        "neighbor": [
+          598,
+          2304,
+          2036
+        ],
+        "vert_idx": 446,
+        "x": 36.37386,
+        "y": 71.90474,
+        "z": -26.26828
+      },
+      "id": "L_GB14",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "GB14",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_TB23",
+        "neighbor": [
+          2447,
+          1292,
+          1116
+        ],
+        "vert_idx": 1416,
+        "x": 59.23597,
+        "y": 47.59666,
+        "z": -48.22547
+      },
+      "id": "L_TB23",
+      "name": "L_TB23",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "TB23",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_BL2",
+        "neighbor": [
+          2717,
+          1238,
+          630
+        ],
+        "vert_idx": 8748,
+        "x": 17.51938,
+        "y": 42.37213,
+        "z": -23.96866
+      },
+      "id": "L_BL2",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "BL2",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_GB1",
+        "neighbor": [
+          644,
+          2288,
+          1054
+        ],
+        "vert_idx": 4277,
+        "x": 56.15781,
+        "y": 31.04098,
+        "z": -47.44238
+      },
+      "id": "L_GB1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "GB1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_BL1",
+        "neighbor": [
+          2324,
+          614,
+          1070
+        ],
+        "vert_idx": 7982,
+        "x": 16.13337,
+        "y": 31.48132,
+        "z": -28.86144
+      },
+      "id": "L_BL1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "BL1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_ST1",
+        "neighbor": [
+          1038,
+          2242,
+          2169
+        ],
+        "vert_idx": 1016,
+        "x": 34.36309,
+        "y": 18.00562,
+        "z": -31.85551
+      },
+      "id": "L_ST1",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST1",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_EX-HN7",
+        "neighbor": [
+          616,
+          2365,
+          1086
+        ],
+        "vert_idx": 4399,
+        "x": 43.98082,
+        "y": 21.91021,
+        "z": -36.35988
+      },
+      "id": "L_EX-HN7",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN7",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_ST2",
+        "neighbor": [
+          962,
+          2053,
+          2052
+        ],
+        "vert_idx": 652,
+        "x": 36.47029,
+        "y": 3.86429,
+        "z": -30.14977
+      },
+      "id": "L_ST2",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST2",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_EX-HN8",
+        "neighbor": [
+          1234,
+          2704,
+          2229
+        ],
+        "vert_idx": 1902,
+        "x": 17.58862,
+        "y": 3.88674,
+        "z": -21.59379
+      },
+      "id": "L_EX-HN8",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN8",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_SI18",
+        "neighbor": [
+          2040,
+          958,
+          771
+        ],
+        "vert_idx": 3903,
+        "x": 55.33903,
+        "y": -9.15082,
+        "z": -44.99253
+      },
+      "id": "L_SI18",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "SI18",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_ST3",
+        "neighbor": [
+          2698,
+          684,
+          1694
+        ],
+        "vert_idx": 8711,
+        "x": 35.77439,
+        "y": -10.08253,
+        "z": -28.81351
+      },
+      "id": "L_ST3",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST3",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_LI20",
+        "neighbor": [
+          515,
+          3005,
+          2846
+        ],
+        "vert_idx": 2569,
+        "x": 21.5719,
+        "y": -7.64332,
+        "z": -25.5297
+      },
+      "id": "L_LI20",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "LI20",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_LI19",
+        "neighbor": [
+          523,
+          2909,
+          2950
+        ],
+        "vert_idx": 1715,
+        "vert_idx2": 3414,
+        "x": 8.755,
+        "y": -19.26456,
+        "z": -15.6381
+      },
+      "id": "R_LI19",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "LI19",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "L_ST4",
+        "neighbor": [
+          2886,
+          1695,
+          1319
+        ],
+        "vert_idx": 2242,
+        "x": 35.31038,
+        "y": -37.46674,
+        "z": -33.6278
+      },
+      "id": "R_ST4",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "ST4",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "DU26",
+        "neighbor": [
+          3330,
+          331,
+          270
+        ],
+        "vert_idx": 2845,
+        "vert_idx2": 2846,
+        "x": -0.11623,
+        "y": -18.94632,
+        "z": -13.82556
+      },
+      "id": "DU26",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "DU26",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "EX-HN3",
+        "neighbor": [
+          295,
+          2184,
+          2149
+        ],
+        "vert_idx": 836,
+        "vert_idx2": 839,
+        "x": -0.34518,
+        "y": 49.91526,
+        "z": -15.26133
+      },
+      "id": "EX-HN3",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "EX-HN3",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    },
+    {
+      "attributes": {
+        "name": "REN24",
+        "neighbor": [
+          332,
+          2811,
+          2806
+        ],
+        "vert_idx": 2091,
+        "x": 0.24798,
+        "y": -54.3392,
+        "z": -23.59238
+      },
+      "id": "RN24",
+      "relationships": {
+        "acupoint": {
+          "data": {
+            "id": "RN24",
+            "type": "acupoints"
+          }
+        }
+      },
+      "type": "points"
+    }
+  ],
+  "included": [
+    {
+      "attributes": {
+        "alt_name": [
+          "目髎"
+        ],
+        "name": "絲竹空",
+        "name_en": "Sizhukong",
+        "treatment": [
+          "面癱",
+          "眼瞼瞤動"
+        ]
+      },
+      "id": "TB23",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_TB23",
+              "type": "points"
+            },
+            {
+              "id": "L_TB23",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "曲眉",
+          "光明"
+        ],
+        "name": "印堂",
+        "name_en": "Yintang",
+        "treatment": [
+          "前額痛",
+          "眩暈",
+          "鼻炎",
+          "鼻衄",
+          "感冒發熱",
+          "高血壓",
+          "失眠",
+          "嘔吐",
+          "產後血暈不語",
+          "子癇",
+          "小兒驚厥"
+        ]
+      },
+      "id": "EX-HN3",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "EX-HN3",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "光明",
+          "眉中"
+        ],
+        "name": "魚腰",
+        "name_en": "Yuyao",
+        "treatment": [
+          "結膜炎",
+          "眼瞼緣炎",
+          "眼肌麻痺",
+          "眼瞼下垂",
+          "目赤腫痛",
+          "面神經麻痺",
+          "近視",
+          "三叉神經（第一支）痛",
+          "眶上神經痛",
+          "眼瞼瞤動",
+          "室上性陣發性心動過速"
+        ]
+      },
+      "id": "EX-HN19",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_EX-HN19",
+              "type": "points"
+            },
+            {
+              "id": "L_EX-HN19",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "光明",
+          "眉中"
+        ],
+        "name": "球後",
+        "name_en": "Qiuhou",
+        "treatment": [
+          "視神經炎",
+          "視神經萎縮",
+          "近視",
+          "青光眼",
+          "視網膜動",
+          "靜脈阻塞",
+          "視網膜色素變性",
+          "中心性漿液性視網膜炎",
+          "色覺異常"
+        ]
+      },
+      "id": "EX-HN7",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_EX-HN7",
+              "type": "points"
+            },
+            {
+              "id": "L_EX-HN7",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "鼻通",
+          "穿鼻"
+        ],
+        "name": "上迎香",
+        "name_en": "Qiuhou",
+        "treatment": [
+          "鼻炎鼻塞",
+          "鼻部癤瘡",
+          "過敏性鼻炎",
+          "肥大性鼻炎",
+          "萎縮性鼻炎",
+          "鼻旁竇炎"
+        ]
+      },
+      "id": "EX-HN8",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_EX-HN8",
+              "type": "points"
+            },
+            {
+              "id": "L_EX-HN8",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "下地倉",
+          "痛關",
+          "頦髎"
+        ],
+        "name": "俠承漿",
+        "name_en": "Qiuhou",
+        "treatment": [
+          "三叉神經痛",
+          "牙痛",
+          "面頰浮腫",
+          "齒齦潰爛",
+          "面神經麻痺",
+          "面肌痙攣",
+          "黃疸"
+        ]
+      },
+      "id": "EX-HN17",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_EX-HN17",
+              "type": "points"
+            },
+            {
+              "id": "L_EX-HN17",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "精明",
+          "淚孔",
+          "淚空",
+          "目內眥",
+          "內眥外"
+        ],
+        "name": "睛明",
+        "name_en": "Jingming",
+        "treatment": [
+          "角膜炎",
+          "視網膜炎",
+          "夜盲",
+          "視神經炎",
+          "視神經萎縮",
+          "青光眼",
+          "早期輕度白內障",
+          "角膜白斑",
+          "翼狀胬肉",
+          "癔症性弱視",
+          "視網膜動脈阻塞",
+          "視網膜色素變性",
+          "結膜炎",
+          "淚腺炎",
+          "淚囊炎",
+          "沙眼",
+          "電光性眼炎",
+          "斜視",
+          "面神經麻痺",
+          "眼輪匝肌痙攣",
+          "心動過速"
+        ]
+      },
+      "id": "BL1",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_BL1",
+              "type": "points"
+            },
+            {
+              "id": "L_BL1",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "眉頭",
+          "眉本",
+          "明光",
+          "始光",
+          "夜光",
+          "員柱"
+        ],
+        "name": "攢竹",
+        "name_en": "Cuanzhu",
+        "treatment": [
+          "前額痛",
+          "肌緊張性頭痛",
+          "結膜炎",
+          "角膜炎",
+          "淚囊炎",
+          "近視",
+          "視神經炎",
+          "視神經萎縮",
+          "面神經麻痺",
+          "玻璃體混濁",
+          "羞明",
+          "眼瞼下垂",
+          "麥粒腫",
+          "失眠",
+          "鼻塞",
+          "肛門部術後疼痛"
+        ]
+      },
+      "id": "BL2",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_BL2",
+              "type": "points"
+            },
+            {
+              "id": "L_BL2",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "太陽",
+          "前關",
+          "後曲",
+          "魚尾"
+        ],
+        "name": "瞳子髎",
+        "name_en": "Tongziliao",
+        "treatment": [
+          "結膜炎",
+          "角膜炎",
+          "視網膜炎",
+          "夜盲",
+          "視神經萎縮",
+          "近視",
+          "面癱",
+          "面肌痙攣",
+          "三叉神經痛"
+        ]
+      },
+      "id": "GB1",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_GB1",
+              "type": "points"
+            },
+            {
+              "id": "L_GB1",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "客主人"
+        ],
+        "name": "陽白",
+        "name_en": "Yangbai",
+        "treatment": [
+          "面癱",
+          "三叉神經痛",
+          "眶上神經痛",
+          "眼瞼下垂"
+        ]
+      },
+      "id": "GB14",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_GB14",
+              "type": "points"
+            },
+            {
+              "id": "L_GB14",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [],
+        "name": "承泣",
+        "name_en": "Chengqi",
+        "treatment": [
+          "角膜炎",
+          "夜盲",
+          "近視",
+          "青光眼",
+          "視神經萎縮",
+          "眼輪匝肌痙攣",
+          "面神經麻痺"
+        ]
+      },
+      "id": "ST1",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_ST1",
+              "type": "points"
+            },
+            {
+              "id": "L_ST1",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [],
+        "name": "四白",
+        "name_en": "Sibai",
+        "treatment": [
+          "面神經麻痺",
+          "三叉神經痛",
+          "角膜炎",
+          "鼻炎膽管蛔蟲症"
+        ]
+      },
+      "id": "ST2",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_ST2",
+              "type": "points"
+            },
+            {
+              "id": "L_ST2",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [],
+        "name": "巨髎",
+        "name_en": "Juliao",
+        "treatment": [
+          "鼻炎",
+          "鼻塞",
+          "三叉神經痛",
+          "面神經麻痺"
+        ]
+      },
+      "id": "ST3",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_ST3",
+              "type": "points"
+            },
+            {
+              "id": "L_ST3",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "胃維"
+        ],
+        "name": "地倉",
+        "name_en": "Dicang",
+        "treatment": [
+          "面神經麻痺",
+          "三叉神經痛",
+          "鵝口瘡"
+        ]
+      },
+      "id": "ST4",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_ST4",
+              "type": "points"
+            },
+            {
+              "id": "L_ST4",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "權髎",
+          "兌骨"
+        ],
+        "name": "顴髎",
+        "name_en": "Quanliao",
+        "treatment": [
+          "三叉神經痛",
+          "面神經麻痺",
+          "面肌痙攣"
+        ]
+      },
+      "id": "SI18",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_SI18",
+              "type": "points"
+            },
+            {
+              "id": "L_SI18",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "人中"
+        ],
+        "name": "水溝",
+        "name_en": "Shuigou",
+        "treatment": [
+          "暈厥",
+          "休克",
+          "呃逆",
+          "遺尿",
+          "尿瀦留",
+          "破傷風",
+          "面神經麻痺",
+          "癔病",
+          "精神分裂症",
+          "舞蹈病",
+          "抽搐",
+          "面肌痙攣",
+          "暈車",
+          "暈船",
+          "暈機",
+          "急性腰扭傷"
+        ]
+      },
+      "id": "DU26",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "DU26",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "口禾髎"
+        ],
+        "name": "禾髎",
+        "name_en": "Heliao",
+        "treatment": [
+          "鼻炎",
+          "面神經麻痺"
+        ]
+      },
+      "id": "LI19",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_LI19",
+              "type": "points"
+            },
+            {
+              "id": "L_LI19",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "衝陽"
+        ],
+        "name": "迎香",
+        "name_en": "Yingxiang",
+        "treatment": [
+          "鼻竇炎",
+          "鼻炎",
+          "酒糟鼻",
+          "面神經麻痹",
+          "面肌痙攣",
+          "三叉神經痛",
+          "便秘",
+          "膽道蛔虫症",
+          "痛經"
+        ]
+      },
+      "id": "LI20",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "R_LI20",
+              "type": "points"
+            },
+            {
+              "id": "L_LI20",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    },
+    {
+      "attributes": {
+        "alt_name": [
+          "天池",
+          "懸漿"
+        ],
+        "name": "承漿",
+        "name_en": "Chengjiang",
+        "treatment": [
+          "面癱",
+          "口腔潰瘍",
+          "流涎"
+        ]
+      },
+      "id": "RN24",
+      "relationships": {
+        "points": {
+          "data": [
+            {
+              "id": "RN24",
+              "type": "points"
+            }
+          ]
+        }
+      },
+      "type": "acupoints"
+    }
+  ]
+}
