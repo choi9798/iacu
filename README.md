@@ -12,11 +12,11 @@
 
 ## 診斷
 透過聊天機器人輸入症狀，聊天機器人會與後台的資料庫做處理，給出建議。
-<img src="https://i.imgur.com/47v5Nfn.png" width="60%" height="60%">
+<img src="https://i.imgur.com/47v5Nfn.png" width="40%" height="40%">
 
 ## 穴道顯示
 根據診斷模式中聊天機器人給出的建議，透過相機實時顯示出穴道位置。
-<img src="https://i.imgur.com/7kZ2Uq6.jpg" width="60%" height="60%">
+<img src="https://i.imgur.com/7kZ2Uq6.jpg" width="40%" height="40%">
 
 # 影片
 APP DEMO
