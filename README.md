@@ -20,10 +20,12 @@
 
 # 影片
 APP DEMO
-{%youtube WGl8JyhOg0M %}
+
+[![](http://img.youtube.com/vi/WGl8JyhOg0M/0.jpg)](http://www.youtube.com/watch?v=WGl8JyhOg0M)
 
 軟件介紹
-{%youtube 7GnEl76zoTg %}
+
+[![](http://img.youtube.com/vi/7GnEl76zoTg/0.jpg)](http://www.youtube.com/watch?v=7GnEl76zoTg)
 
 
 
